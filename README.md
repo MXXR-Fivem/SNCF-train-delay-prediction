@@ -47,7 +47,7 @@ Zachary Joriot :
 
 1. Clone the repo and go into the folder : 
 ```bash
-git clone git@github.com:EpitechBachelorPromo2028/B-DAT-200-PAR-2-1-tardis-4.git
+git clone git@github.com:MXXR-Fivem/SNCF-train-delay-prediction.git
 cd B-DAT-200-PAR-2-1-tardis-4.git
 ```
 
